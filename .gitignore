@@ -1,0 +1,8 @@
+data/
+*.db
+logs/
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+Git push command.txt
+untitled.ipynb
